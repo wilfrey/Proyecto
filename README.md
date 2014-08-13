@@ -12,13 +12,13 @@ Estructura:
 
 Indice con enlace:
 
-0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/Wilver25/Facebook-Project/blob/master/index.html)
-0. Estructura CSS `Estilo de Index.html` [Main.css](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/css/main.css)
-0. Estructura JS `Validacion de entrada` [Main.js](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/js/main.js)
+0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/wilfrey/Facebook-Project/blob/master/index.html)
+0. Estructura CSS `Estilo de Index.html` [Main.css](https://github.com/wilfrey/Facebook-Project/blob/master/Documentos/css/main.css)
+0. Estructura JS `Validacion de entrada` [Main.js](https://github.com/wilfrey/Facebook-Project/blob/master/Documentos/js/main.js)
 0. Imagenes:
-  0. Fondo `Azul y blanco`[Imagen 1](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/img/FONDOFB.png)
-  0. Imagen global de Conexion social `Net`[Imagen 2](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/img/IMGFB.png)
-0. Imagen de pestaña `Generado con favicon` [Favicon](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/favicon/favicon.ico)
+  0. Fondo `Azul y blanco`[Imagen 1](https://github.com/wilfrey/Facebook-Project/blob/master/Documentos/img/FONDOFB.png)
+  0. Imagen global de Conexion social `Net`[Imagen 2](https://github.com/wilfrey/Facebook-Project/blob/master/Documentos/img/IMGFB.png)
+0. Imagen de pestaña `Generado con favicon` [Favicon](https://github.com/wilfrey/Facebook-Project/blob/master/Documentos/favicon/favicon.ico)
 
 
 ####Nota:
