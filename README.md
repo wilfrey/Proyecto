@@ -12,7 +12,7 @@ Estructura:
 
 Indice con enlace:
 
-0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/wilfrey/Facebook-Project/blob/master/index.html)
+0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/wilfrey/Proyecto/blob/master/index.html)
 0. Estructura CSS `Estilo de Index.html` [Main.css](https://github.com/wilfrey/Proyecto/blob/master/Documentos/css/main.css)
 0. Estructura JS `Validacion de entrada` [Main.js](https://github.com/wilfrey/Proyecto/blob/master/Documentos/js/main.js)
 0. Imagenes:
